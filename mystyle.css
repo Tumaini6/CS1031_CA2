@@ -1,0 +1,13 @@
+#hp_banner{
+    width:1200px;
+    height: 400px;
+}
+
+#nav-img{
+    height:100px;
+}
+
+.nav-txt{
+    display: flex;
+    justify-content: center;
+}
