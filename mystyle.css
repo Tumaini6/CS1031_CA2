@@ -3,11 +3,22 @@
     height: 400px;
 }
 
-#nav-img{
-    height:100px;
+.nav-logo{
+    width:20%;
+}
+.nav-image{
+    width:100%;
 }
 
 .nav-txt{
     display: flex;
     justify-content: center;
+}
+
+.nav-conatiner{
+    height:1%;
+}
+
+body {
+    background-color: #ffe699;
 }
